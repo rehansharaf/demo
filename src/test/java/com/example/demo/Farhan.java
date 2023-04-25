@@ -8,6 +8,7 @@ public class Farhan {
     System.out.println("Method created by Farhan2");
    System.out.println("New Method");
    System.out.println("New Method");
+   System.out.println("New Method");
    
   }
   
